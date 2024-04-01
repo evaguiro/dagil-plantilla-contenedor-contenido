@@ -11,12 +11,12 @@ La plantilla incluye los siguientes ficheros:
 * ```AppTest.java```, ```ContenedorTest.java``` y ```ContenidoTest.java``` dentro del directorio ```test/java/es/vrivas```.
 * ```pom.xml```con la configuración del proyecto Maven.
 * ```.gitignore``` con el conjunto mínimo de expresiones a ignorar por git.
+* ```README.template.md``` es un fichero que podría servir como plantilla para la documentación a generar.
 * ```README.md```, que es este fichero.
 
 ### Propósito
 
 Esta plantilla se creó en 2024 como código base para algunas prácticas de la asignatura Desarrollo Ágil, del Grado en Ingeniería Informática de la [Universidad de Jaén][UJA].
-
 
 <!-- ENLACES -->
 [junit4]: https://junit.org/junit4
