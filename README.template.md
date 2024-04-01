@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor (
 | Otra lista | 23 |
 | Más listas | 2 |
 
-<titulo>**Tabla 1.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</titulo>
+<sup>**Tabla 1.** Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</sup>
 
 ## Incremento número 1.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
@@ -105,11 +105,3 @@ Suspendisse ligula nunc, fermentum nec lorem ac, tincidunt finibus est. Cras fel
 
 <!-- Enlaces --> 
 [url-trello]: https://enlace.inventado.trello/b/12239329
-
-<!-- Estilos -->
-<style>
-titulo {
-    text-align: center;
-    font-size: small;
-}
-</style>
