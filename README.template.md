@@ -91,7 +91,11 @@ ID / NIF / NOMBRE / APELLIDOS / ID EMPRESA / FECHA Y HORA ALTA
 
 <sup>**Ilustración 5.** Mockup de la HU F4.</sup>
 
-#### Estado del tablero Trello tras finalizar el incremento.
+#### Desarrollo de HU F12. Mostrar los datos de todos los registros horarios que hay en el sistema, ordenados cronológicamente.
+Documentación similar a las anteriores HU.
+
+
+### Estado del tablero Trello tras finalizar el incremento.
 
 Suspendisse ligula nunc, fermentum nec lorem ac, tincidunt finibus est. Cras felis tortor, imperdiet non eros nec, ultricies bibendum libero. Morbi consequat lorem sit amet nunc auctor, vitae unus (puede verse en 
 [ilustración 6](#ilustracion-trello-final-incr-1))
@@ -102,6 +106,14 @@ Suspendisse ligula nunc, fermentum nec lorem ac, tincidunt finibus est. Cras fel
 ![Estado del tablero Trello al terminar de desarrollar las HU del incremento 1.](./assets/img/trello2.jpg)
 
 <sup>**Ilustración 5.** Estado del tablero Trello al terminar de desarrollar las HU del incremento 1.</sup>
+
+## Incremento número 2.
+Documentación similar al incremento 1, pero con las nuevas HU consideradas en este segundo incremento.
+
+## Conclusiones (opcional).
+
+Nam bibendum vel nisl vel finibus. Duis augue enim, feugiat nec metus a, aliquam auctor orci. Suspendisse interdum turpis sed elit viverra volutpat. Pellentesque fringilla ullamcorper velit, quis iaculis libero maximus in. Mauris mattis scelerisque libero, consectetur varius sapien ultricies semper. Curabitur velit neque, accumsan quis vestibulum ut, finibus et lectus. 
+
 
 <!-- Enlaces --> 
 [url-trello]: https://enlace.inventado.trello/b/12239329
