@@ -17,6 +17,19 @@ public class App {
     private static Contenedor contenedor = new Contenedor();
 
     /**
+     * Método para introducir algunos datos de prueba en el contenedor
+     */
+    public static int establecer_datos_de_prueba() {
+        contenedor.add(new Contenido().setId(1).setDescripcion("Dato 1"));
+        contenedor.add(new Contenido().setId(2).setDescripcion("Dato 2"));
+        contenedor.add(new Contenido().setId(3).setDescripcion("Dato 3"));
+        contenedor.add(new Contenido().setId(4).setDescripcion("Dato 4"));
+        contenedor.add(new Contenido().setId(5).setDescripcion("Dato 5"));
+        contenedor.add(new Contenido().setId(6).setDescripcion("Dato 6"));
+        return contenedor.getNumObjetosContenidos();
+    }
+
+    /**
      * Método para responder a la opción 1 del menú: mostrar contenido del objeto contenedor
      */
     public static void mostrar_contenido_del_objeto_contenedor() {
@@ -68,7 +81,7 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("\n"+TITULO+ "    (por "+AUTOR+")");
-        
+        establecer_datos_de_prueba();
         boolean salir = false;
         do {
             switch (menu_principal()) {
